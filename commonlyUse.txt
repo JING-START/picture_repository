@@ -1,0 +1,16 @@
+生产: https://engine.piesat.cn
+测试: https://engine-dev.piesat.cn
+账号: 15850581472
+密码: qqqq8888
+
+Beyond Compare
+虚拟机: root 123456
+
+
+服务器windows   10.254.240.238   （administrator  njhtFWQ123）
+TeamViewer：    njhtFWQ123  1275939453 up5w25
+向日葵：        476767132 9236
+mysql数据库：   10.254.240.238:3306  root/root
+
+
+df -h [目录]
